@@ -1,3 +1,7 @@
 [build]
   command = "npm run build"
   publish = "_site"
+
+[plugins]
+  [plugins.deploymentHoursPlugin]
+  type = "netlify-deployment-hours-plugin"
