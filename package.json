@@ -21,6 +21,7 @@
   "homepage": "https://github.com/neverendingqs/netlify-sandbox-site#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
+    "netlify-cli": "^2.21.0",
     "netlify-deployment-hours-plugin": "0.0.1"
   }
 }
